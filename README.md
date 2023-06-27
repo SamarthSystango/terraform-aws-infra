@@ -10,9 +10,9 @@ terraform script for aws infrastructure
 # GETTING STARTED 
 
 # 1. Create Terraform Workspace 
-* use terraform workspace to define name for specific resource / all the resouce will take worspace-name as prefix
+* use terraform workspace to define name for specific resource / all the resouce will take worspace-name as prefix using following command
 
-terraform workspace new project-test
+* terraform workspace new project-test
 
 * remember to create workspace only using lower case alphabets and hyphen 
 
